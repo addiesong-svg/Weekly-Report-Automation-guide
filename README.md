@@ -1,7 +1,8 @@
 # Weekly-Report-Automation-guide
 # 📋 주간 업무 보고 자동화 설치 가이드
 
-> **이 파일을 Cowork에서 Claude에게 보여주고 "주간보고 자동화 세팅해줘"라고 말하면 Claude가 아래 과정을 자동으로 진행합니다.**
+> **(방법1) Claude code에서 'https://github.com/addiesong-svg/Weekly-Report-Automation-guide' 설치해줘 합니다. **
+> **(방법2) 이 파일을 Cowork에서 Claude에게 보여주고 "주간보고 자동화 세팅해줘"라고 말하면 Claude가 아래 과정을 자동으로 진행합니다.**
 
 ---
 
